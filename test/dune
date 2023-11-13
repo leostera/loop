@@ -1,0 +1,3 @@
+(tests
+ (names loop_test exn_test)
+ (libraries loop))
