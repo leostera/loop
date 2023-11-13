@@ -12,7 +12,6 @@ authors: ["Leandro Ostera <leandro@abstractmachines.dev>"]
 license: "MIT"
 tags: ["topics" "control flow" "loop" "loops"]
 homepage: "https://github.com/leostera/loop"
-doc: "https://github.com/leostera/loop"
 bug-reports: "https://github.com/leostera/loop/issues"
 depends: [
   "ocaml" {>= "5.0"}

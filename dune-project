@@ -13,8 +13,6 @@
 
 (license MIT)
 
-(documentation https://github.com/leostera/loop)
-
 (package
  (name loop)
  (synopsis "Unbounded loops with continues and breaks")
